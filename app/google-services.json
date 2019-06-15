@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314808315854",
+    "firebase_url": "https://financialadviser-a6571.firebaseio.com",
+    "project_id": "financialadviser-a6571",
+    "storage_bucket": "financialadviser-a6571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314808315854:android:6723cf3a2ed54a9b",
+        "android_client_info": {
+          "package_name": "com.example.jmanu.financialadviser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314808315854-oq392qlknsprbof92tpejmla8nu2tdrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI3MN8MWrJMct8EI60eHGlV67S3hxpEjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314808315854-oq392qlknsprbof92tpejmla8nu2tdrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

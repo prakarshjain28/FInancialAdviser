@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FinancialAdviser</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_form_fillup">FormFillup</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="edit">Edit Profile</string>
+    <string name="goals">Goals</string>
+    <string name="help">Help</string>
+    <string-array name="Assets">
+        <item>House</item>
+        <item>Land/Plot</item>
+        <item>Car</item>
+        <item>Cash and Savings</item>
+        <item>Gold</item>
+        <item>Stock</item>
+        <item>Mutual Fund</item>
+        <item>Fixed Deposit</item>
+        <item>Bonds</item>
+        <item>PPF</item>
+        <item>EPF</item>
+    </string-array>
+    <string-array name="Liabilities">
+        <item> Home/Land/Plot Loan</item>
+        <item>Car Loan</item>
+        <item>Personal Loan</item>
+        <item>Business Liability</item>
+        <item>Credit Card Bill/EMI</item>
+    </string-array>
+    <string-array name="cash_inflow">
+        <item>Salary</item>
+        <item>Businesss</item>
+        <item>Rental Income</item>
+        <item>Any Other</item>
+    </string-array>
+    <string-array name="cash_outflow">
+        <item>Househild Expenses</item>
+        <item>Children Education</item>
+        <item>EMI</item>
+        <item>Premium</item>
+    </string-array>
+</resources>
